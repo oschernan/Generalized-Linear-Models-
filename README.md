@@ -7,3 +7,4 @@ Cumulative Lift Charts, Logistic Function, Model Deployment
 * [Poisson Regression](WineSales_Unit3_OscarHernandez_ScoringProgramIncluded.R)  
 Negative Binomial Regression, Zero Inflated Poisson Regression
 
+Note: Each project has an accompanying report that provides an analysis of the results, overview of methods used and final takeaways.  
